@@ -14,6 +14,5 @@
 
 ---------------------------
 ## 📞Contato
-Se você gostaria de entrar em contato comigo, você pode me encontrar em:
 <div> 
    <a href = "madmfs3mac@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
